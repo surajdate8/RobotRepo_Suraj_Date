@@ -21,6 +21,9 @@ MySecondTest
 MyThirdTest
     Log   In third test case    
     
+
+MyFourthTest
+    Log   In third test case  
     
 # SampleLoginTest
     # Set Browser Implicit Wait    2
